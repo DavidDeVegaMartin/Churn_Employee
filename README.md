@@ -2,7 +2,7 @@
 Churn Employee IBM - Abandono Voluntario de Empleados en IBM
 
 
-![Pagina_01](Pagina_01.png)
+![Pagina_01](Images/Pagina_01.png)
 ![Pagina_02](Pagina_02.png)
 ![Pagina_03](Pagina_03.png)
 ![Pagina_04](Pagina_04.png)
